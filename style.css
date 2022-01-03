@@ -1,0 +1,21 @@
+.dropzone {
+  border: solid 6px rgba(38, 0, 255, 0.2);
+  border-radius: 30px;
+  width: 250px;
+  height: 250px;
+  margin: 30px;
+  background: rgb(237, 235, 240);
+  padding: 10px;
+  float: left;
+  align-items: center;
+  justify-content: center;
+}
+body {
+    background-color: rgb(41, 53, 230);
+}
+
+div img{ 
+  max-height: 100%;
+  max-width: 100%;
+  
+  }
